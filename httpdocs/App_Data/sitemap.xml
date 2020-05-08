@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.projectsatmathikere.com/</loc>
+  <lastmod>2015-12-27T19:32:49+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.projectsatmathikere.com/index.html</loc>
+  <lastmod>2015-12-27T19:32:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.projectsatmathikere.com/embedded.html</loc>
+  <lastmod>2015-12-27T19:32:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.projectsatmathikere.com/software.html</loc>
+  <lastmod>2015-12-27T19:32:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.projectsatmathikere.com/mechanical.html</loc>
+  <lastmod>2015-12-27T19:32:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.projectsatmathikere.com/contact.html</loc>
+  <lastmod>2015-12-27T19:32:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.projectsatmathikere.com/project-list/SOFTWARE%20PROJECT%20LIST.docx</loc>
+  <lastmod>2015-12-26T09:02:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.projectsatmathikere.com/project-list/EMBEDDED%20PROJECT%20LIST.docx</loc>
+  <lastmod>2015-12-26T09:02:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.projectsatmathikere.com/project-list/MECHANICAL%20PROJECT%20LIST.docx</loc>
+  <lastmod>2015-12-26T09:02:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.projectsatmathikere.com/project-list/Final%20CS,EC,MECH%20Project%20list%202014%20and%2015.docx</loc>
+  <lastmod>2015-12-26T09:02:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
